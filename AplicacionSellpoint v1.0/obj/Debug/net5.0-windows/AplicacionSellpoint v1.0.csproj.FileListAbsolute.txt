@@ -1,0 +1,54 @@
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.exe
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.deps.json
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.json
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.runtimeconfig.dev.json
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.frmMenuPrincipal.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.GenerateResource.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.AssemblyInfo.cs
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.pdb
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.genruntimeconfig.cache
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\ref\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint v1.0.csproj.CopyComplete
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmAcercaDe.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.frmIniciarSesion.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\refint\AplicacionSellpoint v1.0.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Properties.Resources.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeGruposDeEntidades.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmRegistroDeTiposDeEntidades.resources
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.AttributedModel.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Convention.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Hosting.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.Runtime.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\System.Composition.TypedParts.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\javie\Desktop\Practica Final De Laboratorio\AplicacionSellpoint v1.0\AplicacionSellpoint v1.0\obj\Debug\net5.0-windows\AplicacionSellpoint_v1._0.Formularios.FormulariosDeEntidades.frmAgregarGrupoDeEntidades.resources
