@@ -14,9 +14,11 @@ namespace AplicacionSellpoint_v1._0
 {
     public partial class frmMenuPrincipal : Form
     {
+
         public frmMenuPrincipal()
         {
             InitializeComponent();
+            statusStrip1.Items["lblNombreDeUsuario"].Text = Program.nombreDeUsuario;
         }
 
         private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
@@ -37,9 +39,7 @@ namespace AplicacionSellpoint_v1._0
         }
 
         private void frmMenuPrincipal_Load(object sender, EventArgs e)
-        {
-            //lblNombreDeUsuario.Text = frmIniciarSesion.nombreDeUsuario;
-            
+        {   
             frmIniciarSesion frm = new frmIniciarSesion();
             frm.ShowDialog();
             

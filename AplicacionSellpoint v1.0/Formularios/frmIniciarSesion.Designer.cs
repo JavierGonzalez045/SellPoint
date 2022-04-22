@@ -132,6 +132,7 @@
             this.Name = "frmIniciarSesion";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Iniciar Sesión";
+            this.Load += new System.EventHandler(this.frmIniciarSesion_Load);
             ((System.ComponentModel.ISupportInitialize)(this.errorP)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -147,6 +148,6 @@
         private System.Windows.Forms.Button btnIniciarSesion;
         private System.Windows.Forms.ErrorProvider errorP;
         private System.Windows.Forms.Button btnCancelar;
-        private System.Windows.Forms.TextBox textNombreDeUsuario;
+        public System.Windows.Forms.TextBox textNombreDeUsuario;
     }
 }

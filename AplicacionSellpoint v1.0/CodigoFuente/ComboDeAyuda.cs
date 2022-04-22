@@ -39,7 +39,6 @@ namespace AplicacionSellpoint_v1._0.CodigoFuente
                 cmb.DataSource = tabla_grupo_de_entidades;
             }
         }
-
         public static void LlenarTiposDeEntidad(ComboBox cmb)
         {
             DataTable tabla_tipos_de_entidades = new DataTable();

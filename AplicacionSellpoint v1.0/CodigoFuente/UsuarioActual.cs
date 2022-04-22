@@ -10,7 +10,6 @@ namespace AplicacionSellpoint_v1._0.CodigoFuente
     {
         public static int IdEntidad { get; set; }
         public static string Descripcion { get; set; }
-
         public static int IdGrupoEntidad { get; set; }
     }
 }

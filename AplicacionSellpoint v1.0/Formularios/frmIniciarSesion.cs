@@ -12,18 +12,17 @@ namespace AplicacionSellpoint_v1._0.Formularios
 {
     public partial class frmIniciarSesion : Form
     {
-        private frmMenuPrincipal MenuPrincipal;
+        //private frmMenuPrincipal MenuPrincipal;
         public frmIniciarSesion()
         {
             InitializeComponent();
         }
 
-        public frmIniciarSesion(frmMenuPrincipal frmMenuPrincipal)
-        {
-            InitializeComponent();
-            this.MenuPrincipal = frmMenuPrincipal;
-        }
-
+        //public frmIniciarSesion(frmMenuPrincipal frmMenuPrincipal)
+        //{
+        //    InitializeComponent();
+        //    this.MenuPrincipal = frmMenuPrincipal;
+        //}
         
         private void btnIniciarSesion_Click(object sender, EventArgs e)
         {
@@ -52,6 +51,8 @@ namespace AplicacionSellpoint_v1._0.Formularios
             }
             else if (dataTable.Rows.Count > 0)
             {
+                //MenuPrincipal.lblNombreDeUsuario.Text = textNombreDeUsuario.Text.Trim();
+                Program.nombreDeUsuario = textNombreDeUsuario.Text;
                 this.Close();
                 return;
             }
@@ -60,10 +61,14 @@ namespace AplicacionSellpoint_v1._0.Formularios
                 labelError.Visible = true;
             }
         }
-
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
+        }
+
+        private void frmIniciarSesion_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

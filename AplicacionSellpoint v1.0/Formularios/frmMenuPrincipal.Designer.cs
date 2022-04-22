@@ -247,6 +247,6 @@
         private System.Windows.Forms.ToolStripStatusLabel horaActual;
         private System.Windows.Forms.Timer timer2;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel3;
-        private System.Windows.Forms.ToolStripStatusLabel lblNombreDeUsuario;
+        public System.Windows.Forms.ToolStripStatusLabel lblNombreDeUsuario;
     }
 }
